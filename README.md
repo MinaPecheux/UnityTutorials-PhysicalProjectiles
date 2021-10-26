@@ -4,7 +4,7 @@
 
 How can we make a simple physics-based cannon that throws cannon balls at obstacles, and even shows the expected trajectory of the projectiles? Let's discover more in this video/text tutorial: "How to make a simple physics-based cannon in less than 30 minutes" :)
 
-You can read it in text format [on Medium](https://mina-pecheux.medium.com/how-to-make-a-basic-patrolling-system-in-unity-c-3bec0cf63478), or watch it [on Youtube](https://www.youtube.com/watch?v=oD7akZVgT4I).
+You can read it in text format [on Medium](https://mina-pecheux.medium.com/how-to-make-a-simple-physics-based-cannon-in-unity-c-219a6a21d3d6), or watch it [on Youtube](https://www.youtube.com/watch?v=xHYmUGyCwQU).
 
 ![thumbnail](imgs/thumbnail.png)
 
